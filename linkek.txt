@@ -1,0 +1,20 @@
+SF logo - https://cdn.playa-games.com/res/sfgame3/splash/logo_new2215.png
+
+progressbar - https://cdn.playa-games.com/res/sfgame3/splash/progressbar.png
+
+arrow left - https://sfgame.net/img/car_left.png
+arrow left hover - https://sfgame.net/img/car_left_hover.png
+
+arrow right - https://sfgame.net/img/car_right.png
+arrow right hover - https://sfgame.net/img/car_right_hover.png
+
+cta - https://sfgame.net/img/cta.webp
+cta hover - https://sfgame.net/img/cta_hover.webp
+
+https://sfgame.net/fonts/tobi_black-webfont.woff2
+
+@font-face {
+  font-family: 'Sfont';
+  src: url('https://sfgame.net/fonts/tobi_black-webfont.woff2') format('woff2');
+}
+
